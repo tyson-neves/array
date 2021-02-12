@@ -12,4 +12,4 @@ for(i = 8; i >= numeros[1]; i = i-2){
 
 for(let i = numeros.length - 2; i >= 0; i -= 2) { // a ordem importa é  -=
     console.log(numeros[i]);
-}
+} 
